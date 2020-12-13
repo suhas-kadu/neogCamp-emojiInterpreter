@@ -3,7 +3,7 @@ import "./styles.css";
 
 const emojiDictionary = {
   "❤️": "Love",
-  "😀": "GrinningFace",
+  "😀": "Simling Face",
   "😂": "Tears of Joy",
   "😐": "Neutral",
   "😪": "Sleepy",
